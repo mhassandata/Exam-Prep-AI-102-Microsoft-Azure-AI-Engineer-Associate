@@ -12,10 +12,10 @@ All the material related to the Microsoft Azure 102 Examination
 8. Reviewing your mistakes.
 
 ## Conclusion 
-[] *The exam format and content.*
+- [x] The exam format and content.
 
-[] *Creating a study plan.*
+- [x] Creating a study plan.
 
-[] *Practicing.* 
+- [x] Practicing.
 
-[] *Taking care of yourself.*
+- [x] Taking care of yourself.
